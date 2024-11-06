@@ -5,7 +5,7 @@ This project was created for the June 2024 TripleTen Code Jam.
 
 ### Front-end technologies used:
 
-- JaveScript
+- JavaScript
 - HTML
 - CSS
 - Webpack
